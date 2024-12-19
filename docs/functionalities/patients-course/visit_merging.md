@@ -1,5 +1,8 @@
 ## Merging visits into stays
 
+!!! warning
+     This feature is under review and should be used with caution.
+
 ### Presentation of the problem
 
 In order to have a precise view of each patient's course of care, it can be useful to **merge together visit occurrences into stays.**
